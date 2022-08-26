@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi There! My name is Cynthia and I am currently enrolled in a Data Science Bootcamp with BrainStation. I've always been interested in problem-solving and diving into data!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies include making playlists for and going to concerts!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cynthangarajah@gmail.com](mailto:cynthangarajah@gmail.com)
